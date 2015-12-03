@@ -1,5 +1,5 @@
 {
-  "name": "hubot-beats",
+  "name": "hubot-beat-time",
   "description": "A hubot script to reply with the current time in beats",
   "version": "1.0.0",
   "author": "Kevin <Kevin@stealsyour.pw>",
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/thatarchguy/hubot-beats.git"
+    "url": "git://github.com/thatarchguy/hubot-beat-time.git"
   },
   "bugs": {
-    "url": "https://github.com/thatarchguy/hubot-beats/issues"
+    "url": "https://github.com/thatarchguy/hubot-beat-time/issues"
   },
   "dependencies": {
     "coffee-script": "~1.6",
