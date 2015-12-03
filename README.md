@@ -1,5 +1,5 @@
 
-# Hubot Beats [![Build Status](https://travis-ci.org/thatarchguy/hubot-beat-time)](https://travis-ci.org/thatarchguy/hubot-beat-time)
+# Hubot Beats [![Build Status](https://travis-ci.org/thatarchguy/hubot-beat-time.svg?branch=master)](https://travis-ci.org/thatarchguy/hubot-beat-time)
 
 A hubot script to reply with the time in .beats!
 [Swatch Internet Time](https://en.wikipedia.org/wiki/Swatch_Internet_Time)
