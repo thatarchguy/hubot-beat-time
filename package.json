@@ -1,0 +1,49 @@
+{
+  "name": "hubot-beats",
+  "description": "A hubot script to reply with the current time in beats",
+  "version": "1.0.0",
+  "author": "Kevin <Kevin@stealsyour.pw>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "swatch",
+    "beats",
+    "internet time"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thatarchguy/hubot-beats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thatarchguy/hubot-beats/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "dateutil": "~0.1.0"
+  },
+  "devDependencies": {
+    "blanket": "*",
+    "chai": "*",
+    "coffeelint": "*",
+    "coveralls": "*",
+    "grunt": "^0.4.5",
+    "grunt-coffeelint": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-coveralls": "*",
+    "grunt-mocha-test": "*",
+    "grunt-release": "*",
+    "hubot": "*",
+    "hubot-mock-adapter": "*",
+    "matchdep": "*",
+    "mocha": "*",
+    "mocha-lcov-reporter": "*",
+    "sinon": "*",
+    "sinon-chai": "*",
+    "supertest": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
